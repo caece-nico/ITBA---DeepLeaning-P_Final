@@ -1,0 +1,22 @@
+total_variation_weight = 1
+style_weight = 20
+content_weight = 5
+
+
+Start of iteration 0
+Current loss value: 38327443000.0
+Image saved as /content/output_prueba_2/output_at_iteration_0.png
+Iteration 0 completed in 7s
+Start of iteration 1
+
+
+Start of iteration 50
+Current loss value: 5350568000.0
+Image saved as /content/output_prueba_2/output_at_iteration_50.png
+Iteration 50 completed in 7s
+
+
+Start of iteration 99
+Current loss value: 5073112600.0
+Image saved as /content/output_prueba_2/output_at_iteration_99.png
+Iteration 99 completed in 7s
